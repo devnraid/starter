@@ -43,9 +43,7 @@ function(t){var e,n,i,o,r,a,s,l,c,u,f,d,h,p,m,g,v,y,b,w="sizzle"+1*new Date,x=t.
 //end
 }
 
-window.addEventListener('load', function(){
     window.setTimeout( function(){
         kstJS();
     },wait);
-});
 
